@@ -8,7 +8,7 @@ image:
   repository: rikc11/goapplication
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "10227994083"
+  tag: "10228416438"
 
 ingress:
   enabled: false
